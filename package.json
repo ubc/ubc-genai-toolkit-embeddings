@@ -1,6 +1,6 @@
 {
   "name": "ubc-genai-toolkit-embeddings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Embeddings module for the UBC GenAI Toolkit, providing a unified interface for creating embeddings from text.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
   "dependencies": {
     "fastembed": "^1.14.2",
     "ubc-genai-toolkit-core": "^0.1.0",
-    "ubc-genai-toolkit-llm": "^0.1.0"
+    "ubc-genai-toolkit-llm": "^0.2.3"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",
